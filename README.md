@@ -92,12 +92,8 @@ user_form/
 
 ---
 
-##  Screenshot Sample
-
-Screenshot of how the table looks in the database
-
-
-![Second Screenshot](screenshot2.png)
+### Second Submission
+![Second Submission](screenshot2.png)
 
 
 ---
