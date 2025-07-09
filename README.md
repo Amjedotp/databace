@@ -94,9 +94,11 @@ user_form/
 
 ##  Screenshot Sample
 
-This is what the database looks like from the inside:
+Screenshot of how the table looks in the database
 
-![User Status Table Screenshot](screenshot2.png)
+
+![Second Screenshot](screenshot2.png)
+
 
 ---
 
