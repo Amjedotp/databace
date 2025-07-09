@@ -92,10 +92,6 @@ user_form/
 
 ---
 
-### Second Submission
-![Second Submission](screenshot2.png)
-
-
 ---
 
 ##  Author
